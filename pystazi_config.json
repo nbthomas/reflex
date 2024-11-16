@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "project_root": "reflex", 
+        "tests_root": "tests", 
+        "state_root": "pystazi_state", 
+        "hashing_state": "hashing_state.json", 
+        "dependency_state": "dependency_map.json"
+    }
+}
